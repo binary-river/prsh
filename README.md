@@ -1,2 +1,2 @@
 ###Shell Practices
-currnt shell practices : 4
+currnt shell practices : 6
