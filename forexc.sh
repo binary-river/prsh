@@ -2,8 +2,8 @@
 # Echo all files in specific directories 
 
 echo "hello!"
-for file in /home/ljg/myrepo/prsh/*
+for file in *
 do
- echo $file
+ echo `pwd`/$file
 done
 
